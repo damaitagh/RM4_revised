@@ -1,0 +1,6 @@
+path: "/home/ubuntu24/桌面/RM4_revised/toolkit/data/rm_dataset_expanded"
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: car

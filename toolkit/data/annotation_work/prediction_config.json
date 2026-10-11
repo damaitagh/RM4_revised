@@ -1,0 +1,8 @@
+{
+  "weights": "/home/ubuntu24/桌面/RM4_revised/runs/baseline_yolo26n/weights/best.pt",
+  "ultralytics_version": "8.4.7",
+  "ultralytics_source": "/home/ubuntu24/桌面/RM4_revised/.venv/lib/python3.12/site-packages/ultralytics/__init__.py",
+  "conf": 0.25,
+  "imgsz": 640,
+  "image_count": 301
+}

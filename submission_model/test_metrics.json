@@ -1,0 +1,15 @@
+{
+  "source_weights": "/home/ubuntu24/桌面/RM4_revised/runs/expanded_checked_960_100_keep_mosaic/weights/best.pt",
+  "weights_sha256": "28d86bf33783cc0766533edbfc3da8b1ab072ed50c3141b16601e7f7e477851f",
+  "data": "/home/ubuntu24/桌面/RM4_revised/toolkit/data/rm_dataset_expanded_checked/data.yaml",
+  "split": "test",
+  "imgsz": 960,
+  "batch": 8,
+  "ultralytics": "8.4.7",
+  "torch": "2.9.1+cu130",
+  "precision": 0.954128682134496,
+  "recall": 0.9067669172932331,
+  "mAP50": 0.9504235559622031,
+  "mAP50_95": 0.6742467182051823,
+  "evaluation_directory": "/home/ubuntu24/桌面/RM4_revised/runs/final_test_checked"
+}

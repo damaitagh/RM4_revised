@@ -1,0 +1,38 @@
+
+# Python 环境与缓存
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.cache
+.pytest_cache/
+
+# 训练输出
+/runs/
+
+# 数据集图片及视频：保留 YAML、JSON、TXT 标签
+/toolkit/data/**/*.jpg
+/toolkit/data/**/*.jpeg
+/toolkit/data/**/*.png
+/toolkit/data/**/*.bmp
+/toolkit/data/**/*.webp
+/toolkit/data/**/*.JPG
+/toolkit/data/**/*.PNG
+/toolkit/data/**/*.mp4
+/toolkit/data/**/*.avi
+/toolkit/data/**/*.mov
+
+# 模型和压缩包
+*.pt
+*.pth
+*.onnx
+*.engine
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# 本地配置与凭据
+.env
+.env.*
+!.env.example
